@@ -1,0 +1,2 @@
+Current project is about creating a website  that will contain a main index page and have a link to a few recipes
+At the end of the project I will have demonstrated that I know how to work with HTML and git
